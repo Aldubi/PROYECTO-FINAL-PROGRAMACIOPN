@@ -1,0 +1,16 @@
+﻿  compras.cpp
+C:\Users\pollo\OneDrive\Desktop\proyecto\snl_supermercado\vista\proveedores.h(3,10): error C1014: hay demasiados archivos de inclusión: nivel = 1024
+  (compilando archivo de origen "compras.cpp")
+  
+  compras_detalle.cpp
+C:\Users\pollo\OneDrive\Desktop\proyecto\snl_supermercado\vista\proveedores.h(3,10): error C1014: hay demasiados archivos de inclusión: nivel = 1024
+  (compilando archivo de origen "compras_detalle.cpp")
+  
+  proveedores.cpp
+C:\Users\pollo\OneDrive\Desktop\proyecto\snl_supermercado\vista\proveedores.h(3,10): error C1014: hay demasiados archivos de inclusión: nivel = 1024
+  (compilando archivo de origen "proveedores.cpp")
+  
+  main.cpp
+C:\Users\pollo\OneDrive\Desktop\proyecto\snl_supermercado\vista\proveedores.h(3,10): error C1014: hay demasiados archivos de inclusión: nivel = 1024
+  (compilando archivo de origen "main.cpp")
+  
